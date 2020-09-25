@@ -1,0 +1,9 @@
+.rounded-box {
+  background-color: lightcyan;
+  margin-top: 10px;
+  padding: 5%;
+}
+
+.textLabel {
+  text-align: left;
+}
